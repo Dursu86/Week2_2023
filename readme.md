@@ -15,3 +15,6 @@
 - Iniciamos eslint con `npx eslint --init`
 - Añadir `npm install -D eslint-config-prettier`
 - Incluir en eslint.json "prettier" como último extend.
+- Crear un segundo commit y pushear.
+- Añadir carpeta con huskies.
+- Iniciar husky: `npx husky install`
